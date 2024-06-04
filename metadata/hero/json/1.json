@@ -1,0 +1,47 @@
+{
+    "name" : "Muffin",
+    "description" : "Muffin is a delightful little hero with a heart as sweet as its name. This tiny creature brings joy and warmth wherever it goes. Muffin is known for its unwavering loyalty and the ability to spread positivity in the most enchanting ways. Its small stature hides a mighty spirit, making Muffin an unexpected but cherished hero.",
+    "image" : "https://plum-wooden-rattlesnake-570.mypinata.cloud/ipfs/QmNUQFseAikgQvHGGL7QJRov1tVH6WPc5dGqp8nXJVu4ug/1.png",
+    "attributes" : [
+        {
+            "display_type": "string",
+            "trait_type": "Size",
+            "value": "Petite"
+        },
+        {
+            "display_type": "string",
+            "trait_type": "Personality",
+            "value": "Cheerful"
+        },
+        {
+            "display_type": "string",
+            "trait_type": "Rarity",
+            "value": "Common"
+        },
+        {
+            "display_type": "number",
+            "trait_type" : "Power",
+            "value" : 6,
+            "max_value" : 10
+        },
+        {
+            "display_type" : "number",
+            "trait_type" : "Speed",
+            "value" : 7,
+            "max_value" : 10
+        },
+        {
+            "display_type" : "boost_percentage",
+            "trait_type" : "Control",
+            "value" : 15
+        },
+        { 
+            "trait_type" : "Original",
+            "value" : "True"
+        },
+        {
+            "trait_type" : "Upgradable",
+            "value" : "True"
+        }
+    ]
+}

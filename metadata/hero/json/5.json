@@ -1,0 +1,47 @@
+{
+    "name" : "Teddy",
+    "description" : "Teddy is a cuddly and comforting hero that exudes warmth and love. With its fluffy exterior and gentle demeanor, Teddy is the ultimate companion for cozy moments. This hero has a unique ability to provide comfort and solace, making it a cherished member of any collection. If you seek a hero that brings a sense of security, Teddy is the one for you.",
+    "image" : "https://plum-wooden-rattlesnake-570.mypinata.cloud/ipfs/QmNUQFseAikgQvHGGL7QJRov1tVH6WPc5dGqp8nXJVu4ug/5.png",
+    "attributes" : [
+        {
+            "display_type": "string",
+            "trait_type": "Size",
+            "value": "Medium"
+        },
+        {
+            "display_type": "string",
+            "trait_type": "Personality",
+            "value": "Affectionate"
+        },
+        {
+            "display_type": "string",
+            "trait_type": "Rarity",
+            "value": "Rare"
+        },
+        {
+            "display_type": "number",
+            "trait_type" : "Power",
+            "value" : 7,
+            "max_value" : 10
+        },
+        {
+            "display_type" : "number",
+            "trait_type" : "Speed",
+            "value" : 8,
+            "max_value" : 10
+        },
+        {
+            "display_type" : "boost_percentage",
+            "trait_type" : "Control",
+            "value" : 20
+        },
+        { 
+            "trait_type" : "Original",
+            "value" : "True"
+        },
+        {
+            "trait_type" : "Upgradable",
+            "value" : "True"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name" : "Daisy",
+    "description" : "Daisy is a graceful and elegant hero, embodying the beauty of nature. With its enchanting presence and soothing aura, Daisy brings a sense of tranquility to any collection. This hero is known for its nurturing spirit, making it the ideal companion for those who appreciate the serenity and grace found in the natural world.",
+    "image" : "https://plum-wooden-rattlesnake-570.mypinata.cloud/ipfs/QmNUQFseAikgQvHGGL7QJRov1tVH6WPc5dGqp8nXJVu4ug/3.png",
+    "attributes" : [
+        {
+            "display_type": "string",
+            "trait_type": "Size",
+            "value": "Medium"
+        },
+        {
+            "display_type": "string",
+            "trait_type": "Personality",
+            "value": "Graceful"
+        },
+        {
+            "display_type": "string",
+            "trait_type": "Rarity",
+            "value": "Uncommon"
+        },
+        {
+            "display_type": "number",
+            "trait_type" : "Power",
+            "value" : 5,
+            "max_value" : 10
+        },
+        {
+            "display_type" : "number",
+            "trait_type" : "Speed",
+            "value" : 6,
+            "max_value" : 10
+        },
+        {
+            "display_type" : "boost_percentage",
+            "trait_type" : "Control",
+            "value" : 20
+        },
+        { 
+            "trait_type" : "Original",
+            "value" : "True"
+        },
+        {
+            "trait_type" : "Upgradable",
+            "value" : "True"
+        }
+    ]
+}

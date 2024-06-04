@@ -1,0 +1,16 @@
+# Hardhat
+/node_modules
+/hardhat.config.ts
+/hardhat.config.js
+/cache
+
+# Compiled files
+/artifacts
+
+# Testing
+/test-results
+
+.env
+
+# IDE
+/.vscode

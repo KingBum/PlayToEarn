@@ -1,0 +1,47 @@
+{
+    "name" : "Peanut",
+    "description" : "Meet Peanut, a lovable and mischievous hero with a penchant for adventure. Peanut's inquisitive nature often leads it into amusing situations, making it a charming and unpredictable companion. With its endearing antics and boundless energy, Peanut is the perfect hero for those seeking a delightful and lively addition to their collection.",
+    "image" : "https://plum-wooden-rattlesnake-570.mypinata.cloud/ipfs/QmNUQFseAikgQvHGGL7QJRov1tVH6WPc5dGqp8nXJVu4ug/2.png",
+    "attributes" : [
+        {
+            "display_type": "string",
+            "trait_type": "Size",
+            "value": "Small"
+        },
+        {
+            "display_type": "string",
+            "trait_type": "Personality",
+            "value": "Playful"
+        },
+        {
+            "display_type": "string",
+            "trait_type": "Rarity",
+            "value": "Epic"
+        },
+        {
+            "display_type": "number",
+            "trait_type" : "Power",
+            "value" : 9,
+            "max_value" : 10
+        },
+        {
+            "display_type" : "number",
+            "trait_type" : "Speed",
+            "value" : 9,
+            "max_value" : 10
+        },
+        {
+            "display_type" : "boost_percentage",
+            "trait_type" : "Control",
+            "value" : 50
+        },
+        { 
+            "trait_type" : "Original",
+            "value" : "True"
+        },
+        {
+            "trait_type" : "Upgradable",
+            "value" : "True"
+        }
+    ]
+}
